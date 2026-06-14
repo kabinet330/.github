@@ -1,6 +1,5 @@
 <div align="center">
-Kabinet 330
-Građevinski fakultet · Univerzitet u Beogradu
+Kabinet 330 · Građevinski fakultet · Univerzitet u Beogradu
 
 Nastavni materijali, vežbe i prateći alati za predmete<br> iz oblasti planiranja i projektovanja puteva.
 </div>
